@@ -1,2 +1,11 @@
-# side-project-list
-My Side Project List
+# 我的 Side Project 清單
+
+## 簡介
+這個倉庫收集了我在工作之餘的小專案，這些專案旨在方便生活與學習，同時分享和應用新技術。
+
+## 專案列表
+
+| 專案名稱 | 描述 | 使用技術 |
+|----------|------|----------|
+| [Blog Post Ranking](https://github.com/kyomind/blog-post-ranking) | 從 Google Analytics 4 取得最近 14 天 blog 瀏覽數據，並匯出為 Markdown 文件 | GA4 API、crontab |
+| [Django Tutorial](https://github.com/kyomind/Django-Tutorial) | Django 系列教學與 Python 開發文章範例程式碼，涵蓋 Django ORM 和 REST framework 等 | Django、Django REST framework、Ruff、pre-commit |
